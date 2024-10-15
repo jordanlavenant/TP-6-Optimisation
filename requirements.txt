@@ -3,3 +3,4 @@ torch
 ipykernel
 pandas
 scikit-learn
+matplotlib
